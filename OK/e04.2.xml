@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE llistaventes SYSTEM "llistaventes.dtd">
+<llistaventes>
+  <venda>
+    <import>100.50</import>
+    <comprador>Pere Torres</comprador>
+    <venedor>Joan Garcia</venedor>
+    <data>28/03/2023</data>
+    <codi_factura lletra="A" numeros="123456"/>
+  </venda>
+  <venda>
+    <import>200.00</import>
+    <comprador>Marta Lopez</comprador>
+    <venedor>David Ruiz</venedor>
+    <codi_factura lletra="ABCDEF" numeros="123456"/>
+  </venda>
+</llistaventes>

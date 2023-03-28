@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comandas SYSTEM "comandes.dtd">
+<comandas>
+  <comanda>
+    <numeroSerie>001</numeroSerie>
+    <cantidad>2</cantidad>
+    <peso>0.5</peso>
+  </comanda>
+  <comanda>
+    <numeroSerie>002</numeroSerie>
+    <cantidad>1</cantidad>
+  </comanda>
+</comandas>

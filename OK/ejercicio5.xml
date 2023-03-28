@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE vendes SYSTEM "ejercicio5.dtd">
+<vendes>
+  <venda>
+    <vendacredit>
+      <datapagament>2023-04-01</datapagament>
+      <quantitat>1500</quantitat>
+    </vendacredit>
+  </venda>
+  <venda>
+    <vendaimmediata>
+      <quantitat>500</quantitat>
+      <divisa>EUR</divisa>
+    </vendaimmediata>
+  </venda>
+</vendes>

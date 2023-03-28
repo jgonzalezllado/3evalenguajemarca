@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE operaciones SYSTEM "ejercicio8.dtd">
+<operaciones>
+    <operacion tipo="venta">
+      <titulosvendidos>
+        <titulo>
+          <nombre>Nombre del libro</nombre>
+          <autor>Autor del libro</autor>
+          <precio>10.99</precio>
+        </titulo>
+        <titulo>
+          <nombre>Otro libro</nombre>
+          <autor>Nombre del autor</autor>
+          <precio>19.99</precio>
+        </titulo>
+        <cantidad>2</cantidad>
+        <entregado>si</entregado>
+        <importe moneda="USD">30.98</importe>
+      </titulosvendidos>
+    </operacion>
+    
+    <operacion tipo="compra">
+      <tituloscomprados>
+        <titulo>
+          <nombre>Nombre del libro</nombre>
+          <autor>Autor del libro</autor>
+          <precio>8.50</precio>
+        </titulo>
+        <titulo>
+          <nombre>Otro libro</nombre>
+          <autor>Nombre del autor</autor>
+          <precio>12.75</precio>
+        </titulo>
+        <proveedor>Nombre del proveedor</proveedor>
+        <fechaCompra>
+          <dia>28</dia>
+          <mes>3</mes>
+          <año>2023</año>
+        </fechaCompra>
+      </tituloscomprados>
+    </operacion>
+  </operaciones>
+  
