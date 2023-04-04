@@ -3,9 +3,25 @@
 "autor": "j.r.r . tolkien",
 "año": 1954
 "generos: ["fantassia", "aventura"]"
-
+"ADREÇA": {
+    "carrer:" "carrer gran",
+    "ciudad" :"barcelona",
+    "codigopostal"
+ :07002"}
 nombre propiedad , la clave es un objeto, que queremos guardar una o varias propiedades o campos.
 pner coma al final para listar diferentes campos
 con el corchete se guarda una serie de elementos
 diferencia cuando se abre la clave
+numerico no se pone entre comillas y los nombres si
+en jason no hace falta crear el elemento raiz
 }
+
+[es una tabla jason]
+campo siempre entre comilla doble
+
+pasarlo a xml, acordarse que tiene que tener un elemento raiz
+<libro>
+
+<titulo> señor de los anillos</titulo>
+<autor> año</autor>
+</libro>
